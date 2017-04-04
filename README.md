@@ -52,6 +52,8 @@ Label          | Type
 
 and in addition, depending on the influence of the PR
 
+Label          | Size of influence
+-------------- | -----------------
 [M] or [Maj]   | Major patch/Breaks backwards compatibility 
 [S] or [Small] | Small patch
 
