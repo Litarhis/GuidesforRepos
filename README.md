@@ -4,7 +4,7 @@
 
 If you want contribute follow the guide below.
 
-###### Issues
+#### Issues
 
 When creating an issue, provide in title a simple and brief resume of the project. In addintion, include a  github image before the title's text as it is shown below (more than one may be added):
 
@@ -25,7 +25,7 @@ Image                  | Type
 
 
 
-###### PRs
+#### PRs
 
 As with issues, when you first create a PR, you have to provide a corresponding icon before the title's text, following the rules below.
 
