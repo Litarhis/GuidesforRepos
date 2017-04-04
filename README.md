@@ -32,7 +32,7 @@ As with issues, when you first create a PR, you have to provide a corresponding 
 Image               | Labels    | Type
 ------------------- | --------- | ----
 :hammer_and_wrench: | [WIP]     | Work still in progress
-:call_me_hand:      | [Help]    | Help needed for this PR
+:hand:              | [Help]    | Help needed for this PR
 :label:             | [Approve] | Submitted for approval (must not be in "work-in-progress" state)
 
 
