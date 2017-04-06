@@ -10,10 +10,11 @@ When creating an issue, provide in title a simple and brief resume of the proble
 
 Image                  | Labels         | Type
 ---------------------- | -------------- | ----
+:right_anger_bubble:   | [Discuss]      | Discussion
 :fast_forward:         | [Prog]         | In progress
 :rocket:               | [Speed]        | Enhancement
 :heart:                | [Prop]         | Propose a new feature
-:older_man:            | [Dprc]         | Something used is deprecated
+:older_man:            | [Old]          | Something used is deprecated
 :warning:              | [Warn]         | Something may break in the future, needs to be changed
 :yin_yang:             | [Semi]         | Something breaks in some systems (not in all of them)
 :exclamation:          | [Bug]          | Bug
