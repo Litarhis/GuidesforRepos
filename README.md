@@ -6,9 +6,9 @@ GuidesforRepos is a simple, but helpful guide for writting issues' and PRs' titl
 
 #### Issues
 
-When creating an issue, provide in title a simple and brief resume of the problem. In addintion, include a  github image, followed by a label, before the title's text as it is shown below (more than one may be added):
+When creating an issue, provide in title a simple and brief resume of the problem. In addintion, include a  github image, followed by a tag, before the title's text as it is shown below (more than one may be added):
 
-Image                  | Labels         | Type
+Image                  | Tag            | Type
 ---------------------- | -------------- | ----
 :right_anger_bubble:   | [Discuss]      | Discussion
 :fast_forward:         | [Prog]         | In progress
@@ -28,23 +28,24 @@ Image                  | Labels         | Type
 
 #### PRs
 
-As with issues, when you first create a PR, you have to provide a corresponding icon, followed by a label, before the title's text, following the rules below.
+As with issues, when you first create a PR, you have to provide a corresponding icon, followed by a tag, before the title's text, following the rules below.
 
-Image               | Labels    | Type
+Image               | Tag       | Type
 ------------------- | --------- | ----
 :hammer_and_wrench: | [WIP]     | Work still in progress
 :hand:              | [Help]    | Help needed for this PR
 :label:             | [Approve] | Submitted for approval (must not be in "work-in-progress" state)
 
 
+Issues and PRs come in pairs with the corresponding github label. See more at [https://github.com/Litarhis/GuidesforRepos/labels](url).
 
 ### For maintainers and moderators
 
 #### Merging
 
-When you comment your commit before merging a new PR, you should provide a label before your message of preference under these rules:
+When you comment your commit before merging a new PR, you should provide a tag before your message of preference under these rules:
 
-Label          | Type
+Tag            | Type
 -------------- | ----
 [Fix]          | PR fixes something
 [Feat]         | Enhancement
@@ -53,7 +54,7 @@ Label          | Type
 
 and in addition, depending on the influence of the PR
 
-Label          | Size of influence
+Tag            | Size of influence
 -------------- | -----------------
 [M] or [Maj]   | Major patch/Breaks backwards compatibility 
 [S] or [Small] | Small patch
